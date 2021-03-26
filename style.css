@@ -2,9 +2,13 @@ body {
     transition: all .5s ease;
    }
   
-   #photo #instructions {
+   #photo {
     display: block;
     margin-left: auto;
     margin-right: auto;
    
   } 
+
+  #instructions {
+    text-align: center;
+  }
