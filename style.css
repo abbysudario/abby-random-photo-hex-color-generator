@@ -2,7 +2,7 @@ body {
     transition: all .5s ease;
    }
   
-   #photo {
+   #photo #instructions {
     display: block;
     margin-left: auto;
     margin-right: auto;

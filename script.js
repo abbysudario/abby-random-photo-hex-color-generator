@@ -16,7 +16,6 @@ function getPhoto(){
    randomPhoto.style.display
  }
 
- 
 // runs function on click
  document.body.onkeyup = function(e){
       if(e.keyCode == 32){
