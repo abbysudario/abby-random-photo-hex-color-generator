@@ -1,5 +1,7 @@
 # random-photo-hex-color-generator-app
 
-This is an app that generates random photo + hex colors
+This is an app that generates a random photo + hex colors
+
+DEMO: https://app.netlify.com/sites/abby-random-photohex-generator/settings/general
 
 **Tech Stack: HTML | CSS | Vanilla JS | Netlify**
