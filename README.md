@@ -1,4 +1,4 @@
-# random-photo-hex-color-generator-app
+# random-photo-hex-color-generator
 
 This is an app that generates a random photo + hex colors
 
