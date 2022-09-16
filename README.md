@@ -2,6 +2,6 @@
 
 This is an app that generates a random photo + hex colors
 
-DEMO: https://app.netlify.com/sites/abby-random-photohex-generator/settings/general
+DEMO:https://abby-random-photohex-generator.netlify.app
 
 **Tech Stack: HTML | CSS | Vanilla JS | Netlify**
